@@ -4,10 +4,9 @@ date = 2020-02-06T05:00:00Z
 excerpt = ""
 layout = "post"
 subtitle = ""
-tags = []
+tags = ["Study"]
 thumb_img_path = ""
 title = "Ultrashort Bible StudyTip #1: Ask Three Simple Questions"
-Categories = ["Study"]
 
 +++
 I’ve fallen into the trap.
