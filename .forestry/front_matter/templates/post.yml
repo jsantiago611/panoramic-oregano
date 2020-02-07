@@ -17,6 +17,11 @@ fields:
   label: Date
   config:
     required: true
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  hidden: false
 - type: file
   name: thumb_img_path
   label: Featured Image
@@ -36,11 +41,6 @@ fields:
   default: post
   config:
     required: true
-- name: tags
-  type: tag_list
-  default: []
-  label: Tags
-  hidden: false
 pages:
 - content/posts/ultrashort-bible-studytip-1.md
 - content/posts/what-does-it-mean-to-be-poor-in-spirit.md
