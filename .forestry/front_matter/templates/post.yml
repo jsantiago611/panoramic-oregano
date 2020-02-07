@@ -43,5 +43,6 @@ fields:
   config:
     required: true
 pages:
+- content/posts/how-to-boldly-evangelize-even-if-you-re-scared-and-insecure.md
 - content/posts/ultrashort-bible-studytip-1.md
 - content/posts/what-does-it-mean-to-be-poor-in-spirit.md
