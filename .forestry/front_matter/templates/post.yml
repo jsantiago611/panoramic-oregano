@@ -37,6 +37,4 @@ fields:
   config:
     required: true
 pages:
-- content/posts/fox-village-in-japan.md
 - content/posts/fragments-of-iceland.md
-- content/posts/moving-to-new-york.md
