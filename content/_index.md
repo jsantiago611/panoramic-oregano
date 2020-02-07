@@ -6,7 +6,7 @@ sections:
   title: Intro
   section_id: intro
   component: intro.html
-  content: "Hey there!![\U0001F44B](https://s.w.org/images/core/emoji/12.0.0-1/svg/1f44b.svg)\U0001F44B
+  content: "Hey there!![\U0001F44B](https://s.w.org/images/core/emoji/12.0.0-1/svg/1f44b.svg)
     Welcome to ScriptureSavvy, an inquiry into what it means to become more like Jesus
     in our modern digital age. I’m Jon, and I believe that any Christian _can_ become
     more like Jesus by studying what the Bible says about Spiritual Formation and
