@@ -22,6 +22,7 @@ fields:
   default: []
   label: Tags
   hidden: false
+  description: Categories
 - type: file
   name: thumb_img_path
   label: Featured Image
