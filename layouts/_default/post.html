@@ -4,8 +4,8 @@
     <header class="post-header">
       <div class="post-meta">
         <time class="published"
-          datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "Monday, January 2, 2006" }}</time>
-        {{ partial "tags.html" .}}<!-- layouts/blog/single.html -->
+          datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">in {{ partial "tags.html" .}}<!-- layouts/blog/single.html -->{{ .Date | dateFormat "Monday, January 2, 2006" }}</time>
+      
       </div>
       
           
