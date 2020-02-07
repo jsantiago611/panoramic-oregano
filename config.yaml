@@ -2,8 +2,8 @@
 title: ScriptureSavvy
 baseURL: "/"
 params:
-  layout_style: list
-  palette: blue
+  layout_style: grid
+  palette: green
   header:
     title: ScriptureSavvy
     logo_img: ''
