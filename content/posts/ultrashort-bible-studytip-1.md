@@ -7,6 +7,7 @@ subtitle = ""
 tags = []
 thumb_img_path = ""
 title = "Ultrashort Bible StudyTip #1: Ask Three Simple Questions"
+Categories = ["Study"]
 
 +++
 I’ve fallen into the trap.
