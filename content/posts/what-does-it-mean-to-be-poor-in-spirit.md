@@ -3,10 +3,10 @@ content_img_path = ""
 date = 2020-02-06T05:00:00Z
 excerpt = "How do I know when you are being poor in spirit or not?  Answer these quick questions..."
 layout = "post"
-subtitle = "(A Self-Assessment)"
+subtitle = ""
 tags = [" Self-Assessment"]
 thumb_img_path = ""
-title = "What does it mean to be Poor in Spirit? "
+title = "What does it mean to be Poor in Spirit? (A Self-Assessment)"
 
 +++
 > Blessed are the poor in spirit, for theirs is the kingdom of heaven. - Matthew 5:3
