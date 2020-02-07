@@ -4,6 +4,7 @@ date = 2020-02-06T05:00:00Z
 excerpt = "How do I know when you are being poor in spirit or not?  Answer these quick questions..."
 layout = "post"
 subtitle = "(A Self-Assessment)"
+tags = []
 thumb_img_path = ""
 title = "What does it mean to be Poor in Spirit? "
 
