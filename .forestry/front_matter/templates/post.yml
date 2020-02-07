@@ -36,5 +36,10 @@ fields:
   default: post
   config:
     required: true
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  hidden: false
 pages:
 - content/posts/what-does-it-mean-to-be-poor-in-spirit.md
