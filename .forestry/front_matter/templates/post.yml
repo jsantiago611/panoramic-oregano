@@ -42,4 +42,5 @@ fields:
   label: Tags
   hidden: false
 pages:
+- content/posts/ultrashort-bible-studytip-1.md
 - content/posts/what-does-it-mean-to-be-poor-in-spirit.md
