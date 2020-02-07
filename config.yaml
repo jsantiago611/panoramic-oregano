@@ -1,8 +1,11 @@
 ---
 title: ScriptureSavvy
 baseURL: "/"
+
 taxonomies:
   tag: tags
+  category: category
+  
 params:
   layout_style: list
   palette: black
