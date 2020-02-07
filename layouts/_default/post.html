@@ -21,6 +21,11 @@
     <div class="post-content">
       {{ .Content | safeHTML }}
     </div><!-- .post-content -->
+    <!-- layouts/blog/single.html -->
+
+<!-- ... -->
+
+{{ partial "tags.html" .}}
   </article><!-- .post -->
 
   <!-- Next/previous post navigation TBD -->
