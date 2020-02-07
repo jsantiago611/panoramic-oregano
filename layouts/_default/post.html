@@ -6,6 +6,13 @@
         <time class="published"
           datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "Monday, January 2, 2006" }}</time>
       </div>
+      
+          <!-- layouts/blog/single.html -->
+
+<!-- ... -->
+
+{{ partial "tags.html" .}}
+      
       <h1 class="post-title">{{ .Params.title }}</h1>
     </header><!-- .post-header -->
     {{ if .Params.subtitle }}
@@ -21,11 +28,7 @@
     <div class="post-content">
       {{ .Content | safeHTML }}
     </div><!-- .post-content -->
-    <!-- layouts/blog/single.html -->
 
-<!-- ... -->
-
-{{ partial "tags.html" .}}
   </article><!-- .post -->
 
   <!-- Next/previous post navigation TBD -->
