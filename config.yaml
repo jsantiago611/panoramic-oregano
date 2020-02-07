@@ -4,7 +4,7 @@ baseURL: "/"
 
 taxonomies:
   tag: tags
-  category: category
+  category: categories
   
 params:
   layout_style: list
