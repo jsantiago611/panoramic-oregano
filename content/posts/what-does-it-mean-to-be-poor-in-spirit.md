@@ -1,7 +1,6 @@
 +++
 content_img_path = ""
 date = 2020-02-06T05:00:00Z
-draft = true
 excerpt = "How do I know when you are being poor in spirit or not?  Answer these quick questions..."
 layout = "post"
 subtitle = "(A Self-Assessment)"
