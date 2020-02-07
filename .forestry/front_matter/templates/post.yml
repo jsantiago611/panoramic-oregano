@@ -36,3 +36,5 @@ fields:
   default: post
   config:
     required: true
+pages:
+- content/posts/what-does-it-mean-to-be-poor-in-spirit.md
