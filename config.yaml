@@ -1,6 +1,8 @@
 ---
 title: ScriptureSavvy
 baseURL: "/"
+taxonomies:
+  tag: tags
 params:
   layout_style: list
   palette: black
