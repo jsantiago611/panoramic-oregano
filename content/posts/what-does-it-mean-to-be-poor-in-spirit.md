@@ -23,15 +23,15 @@ But what does it mean?
 
 ## What it means to be Poor in Spirit:
 
-The late welsh preacher Martin Lloyd Jones is super helpful! He says that:
+The late welsh preacher Martin Lloyd Jones is super helpful! He explains:
 
-> “To be poor in spirit means… a complete absence of pride, self-assurance, self-reliance. A consciousness that we are nothing in the presence of God… a tremendous awareness of our utter nothingness as we come face-to-face with God.”
+> “To be poor in spirit means… a complete absence of pride, self-assurance, self-reliance. A consciousness that we are nothing in the presence of God… a tremendous awareness of our utter nothingness as we come face-to-face with God.” <cite>Martin Lloyd Jones</cite>
 
 In plain English, that means that the “poor in spirit” are humble.
 
 Here’s another analogy:
 
-In the same way that the economically poor do not have many resources to offer, thought they may work hard for them, the Spiritually poor realize that they don’t have anything to offer to God. They realize that all the good things in their life comes from God and they have nothing to brag about.
+In the same way that the economically poor do not have many resources to offer, though they may work hard for them, the Spiritually poor realize that they don’t have anything to offer to God. They realize that all the good things in their life come from God and they have nothing to brag about.
 
 ### A Quick Self-assessment
 
@@ -46,7 +46,7 @@ Have I ever bragged about:
 * What school I graduated from?
 * How much education I have?
 * My talents, IQ?
-* How laid back i am? How passionate I am?
+* How laid back I am? How passionate I am?
 * My nationality?
 * My baptism?
 * My church upbringing?
@@ -74,4 +74,4 @@ _Lord, how often I boast about what does not matter - my natural abilities, pers
 
 _Empty me of self-confidence, pride, self-reliance, and the appearance of humility. Rather, fill me with the knowledge that I am nothing before you. Let me say as Jesus says “ I can do nothing of myself.”_
 
-> “Nothing in my hand I bring, simply to the cross I cling.”
+> “Nothing in my hand I bring, simply to the cross I cling.” 
