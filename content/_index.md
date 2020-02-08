@@ -6,12 +6,9 @@ sections:
   title: Intro
   section_id: intro
   component: intro.html
-  content: "Hey there! \U0001F44B Welcome to ScriptureSavvy, an inquiry into what
-    it means to become more like Jesus in our modern digital age. I’m Jon, and I believe
-    that any Christian can become more like Jesus by studying what the Bible says
-    about Spiritual Formation to developing life-changing habits. Scripture Savvy
-    is all about empowering Christians to be their best by providing practical tips,
-    techniques, and ideas for applying the Scriptures to your digital life."
+  content: Hey there! Welcome to **Scripture Savvy**, an insanely useful guide to
+    becoming like Jesus. I'm Jon, and I believe that _any modern Christian_ can develop
+    life-changing habits by learning to study the Bible and extract its wisdom.
   actions:
   - label: Learn More
     url: "/about"
