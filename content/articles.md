@@ -2,6 +2,6 @@
 img_path = ""
 layout = "page"
 subtitle = "Helpful Articles on Scripture and Spiritual Formation"
-title = "Articles"
+title = "All Articles"
 
 +++
