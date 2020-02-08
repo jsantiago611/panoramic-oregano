@@ -9,7 +9,7 @@ sections:
   content: "### _Bible Study like a Pro_\n\nHey there! \U0001F44B Welcome to Scripture
     Savvy, an insanely useful guide to becoming like Jesus. I'm Jon, and I believe
     that _any_ modern Christian can develop life-changing habits by learning to study
-    the Bible and extracting its wisdom."
+    the Bible and extract its wisdom."
   actions:
   - label: Learn More
     url: "/about"
