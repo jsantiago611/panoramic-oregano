@@ -9,15 +9,15 @@ thumb_img_path = ""
 title = "What does it mean to be Poor in Spirit? (A Self-Assessment)"
 
 +++
-> Blessed are the poor in spirit, for theirs is the kingdom of heaven. - Matthew 5:3
+> Blessed are the poor in spirit, for theirs is the kingdom of heaven. <cite>Matthew 5:3</cite>
 
-This is painful to say, but…being poor in spirit is not a character trait that is popular to modern people.
+This is painful to say, but…being poor in spirit is not a character trait that is popular with modern people.
 
 Our culture tells us we must be self-confident. We must be sure of ourselves. We must be strong and depend on no one, even our spouses. The personal development market is full of books and blogs about this!
 
 Even the modern church doesn’t always value being “poor in spirit”. We value motivational speakers and dynamic personalities, but not the “poor in spirit.”
 
-But Jesus taught that this was essential to being a growing Christian, because he listed it first in his description of what it means to be a Christian.
+But Jesus taught that this was essential to being a growing Christian because he listed it first in his description of what it means to be a Christian.
 
 But what does it mean?
 
