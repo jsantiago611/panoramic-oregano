@@ -6,9 +6,9 @@ sections:
   title: Intro
   section_id: intro
   component: intro.html
-  content: "### Bible Study like a Pro\n\nHey there! \U0001F44B Welcome to **Scripture
-    Savvy**, an insanely useful guide to becoming like Jesus. I'm Jon, and I believe
-    that _any modern Christian_ can develop life-changing habits by learning to study
+  content: "### _Bible Study like a Pro_\n\nHey there! \U0001F44B Welcome to Scripture
+    Savvy, an insanely useful guide to becoming like Jesus. I'm Jon, and I believe
+    that _any_ modern Christian can develop life-changing habits by learning to study
     the Bible and extracting its wisdom."
   actions:
   - label: Learn More
