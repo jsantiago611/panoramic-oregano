@@ -8,4 +8,4 @@ name = "Articles"
 weight = 2
 
 +++
-<p>{{ partial "tags.html" .}}<!-- layouts/blog/single.html --></p>
+{{ partial "tags.html" .}}<!-- layouts/blog/single.html -->
