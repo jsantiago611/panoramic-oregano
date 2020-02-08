@@ -23,10 +23,11 @@
       {{ .Content | safeHTML }}
     </div><!-- .post-content -->
 
+    <a>{{ partial "tags.html" .}}<!-- layouts/blog/single.html --></a>
     
   </article><!-- .post -->
 
-    {{ partial "tags.html" .}}<!-- layouts/blog/single.html -->
+    
 
 
   <!-- Next/previous post navigation TBD -->
