@@ -8,8 +8,8 @@ sections:
   component: intro.html
   content: "Hey there! \U0001F44B Welcome to **Scripture Savvy**, an insanely useful
     guide to becoming like Jesus. I'm Jon, and I believe that _any modern Christian_
-    can develop life-changing habits by learning to study the Bible and extract its
-    wisdom."
+    can develop life-changing habits by learning to study the Bible and extracting
+    its wisdom."
   actions:
   - label: Learn More
     url: "/about"
